@@ -2,3 +2,5 @@
 .vscode
 backend/env
 backend/src/articles/migrations
+backend/src/articles/__pycache__
+backend/src/djreact/__pycache__
