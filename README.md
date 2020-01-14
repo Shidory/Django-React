@@ -70,3 +70,26 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Django
+
+###### DEVELOPMENT
+
+    # Clone project
+    
+    # Change into project directory
+    cd <project_name>
+    
+    # Make virtual environment
+    mkvirtualenv <project_name>
+    
+    # Activate virtual environment
+    workon <project_name>
+    
+    # Install requirements
+    pip install -r requirements.txt
+    
+    # Setup (if necessary)
+    
+    # Start the development server
+    python manage.py runserver
