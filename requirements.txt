@@ -3,7 +3,7 @@ Click==7.0
 Django==3.0.12
 django-cors-headers==3.2.1
 django-readme-generator==2019.9.7
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 getfiles==2019.4.13
 load==2019.4.13
 markdown-table==2019.4.13
